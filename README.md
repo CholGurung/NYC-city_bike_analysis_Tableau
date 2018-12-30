@@ -72,4 +72,4 @@ It will aggregate the data found in the Citi Bike Trip History Logs to build a d
   The Subscriber is triple the amount of customer in Month of October, 2018.
 
 
-Author : Chol Grg
+Author : Chol Gurung
